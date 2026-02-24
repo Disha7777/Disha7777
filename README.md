@@ -25,8 +25,33 @@
 
 ### 🛠 Languages and Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,html,css,js,bootstrap,mysql,python,java,git,github,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=
+android,
+aws,
+c,
+cpp,
+css,
+django,
+figma,
+firebase,
+flutter,
+git,
+github,
+html,
+java,
+js,
+laravel,
+linux,
+mongodb,
+mysql,
+nodejs,
+php,
+python,
+tensorflow,
+vscode,
+bootstrap
+" />
 </p>
 
 ---
@@ -46,10 +71,7 @@
 > A mobile app empowering communication and connection.  
 Built using **Flutter, PHP, MySQL, HTML, CSS, JavaScript**
 
-#### 💰 Personal Finance System
-> A finance tracking system built using **Python**
 
----
 
 <p align="center">
 ✨ Keep Learning. Keep Building. ✨

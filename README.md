@@ -14,7 +14,7 @@
 ---
 
 - 🔭 I’m currently working on [FirstTalk](https://github.com/Disha7777/FirstTalk)
-- 🌱 I’m currently learning **Flutter, Laravel, AI/ML**
+- 🌱 I’m currently learning **Flutter, Laravel, AI/ML, .NET, C#**
 - 💬 Ask me about **Flutter, PHP, HTML, CSS, JavaScript**
 - 📫 How to reach me **dishasanghavi1477@gmail.com**
 - ⚡ Fun fact: I love building real-world projects!
